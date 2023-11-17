@@ -3,5 +3,5 @@
 ### how small can it get?
 Listing our favorite desserts
 
-- Eleanor: **CAKE!** [all kinds]
+- Eleanor: **CAKE!** [all kinds] (I like Schwarzwälder Torte -> Still a Cake?)
 - Chelsea: Rori's Extra Dark Chocolate Ice Cream
