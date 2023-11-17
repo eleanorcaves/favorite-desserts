@@ -5,3 +5,4 @@ Listing our favorite desserts
 
 - Eleanor: **CAKE!**
 be more specific!
+- Chelsea: Rori's Extra Dark Chocolate Ice Cream
