@@ -3,6 +3,5 @@
 ### how small can it get?
 Listing our favorite desserts
 
-- Eleanor: **CAKE!**
-be more specific!
+- Eleanor: **CAKE!** [all kinds]
 - Chelsea: Rori's Extra Dark Chocolate Ice Cream
