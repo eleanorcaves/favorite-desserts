@@ -8,6 +8,6 @@ Listing our favorite desserts
 - Morris: pear
 - Kara: cookies!
 
-- Will this pull on R studio?
+- Will this pull on R studio? Yes
 
 
