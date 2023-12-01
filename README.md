@@ -9,10 +9,5 @@ Listing our favorite desserts
 - Kara: cookies!
 
 - Will this pull on R studio? Yes
-<<<<<<< HEAD
--Testing out some stuff
-
-=======
-- what if you don't pull? 
->>>>>>> 48e4435333e450713b4ec1bb8b5a438c26b8cc8a
+-For real, we're resolving this conflict
 
