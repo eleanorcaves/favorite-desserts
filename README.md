@@ -2,7 +2,7 @@
 
 Listing our favorite desserts
 
-- Eleanor: **CUPCAKE!** [all kinds]
+- Eleanor: **CUPCAKE!** [all kinds] only cupcakes
 - Chelsea: Rori's Extra Dark Chocolate Ice Cream; and Schwarzwälder torte
 - Bryce: Carrot cake (or maybe cheesecake)
 - Morris: pear
